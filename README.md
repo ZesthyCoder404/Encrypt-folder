@@ -1,5 +1,13 @@
 ## Encrypt folder
 
+In this repository you will find :
+
+ - The text file with the code of the .bat file : ```File for encrypt```
+
+- The .bat file used to encrypt a folder : ```Encrypt.bat```
+
+- This README file
+
 This is a .bat file that can make you encrypt any folder you want without using complicated commands in the cmd. Very usefull if you want to make a private folder.
 
 
